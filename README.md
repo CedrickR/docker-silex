@@ -12,3 +12,9 @@ Modifier le chemin
 ### PhpmyAdmin
     http://localhost:8080
 
+## Mise en place des sources
+ ### Création du réperoire src
+     # mkdir src
+ ### Installer depuis composer le paquet silex
+     # composer create-project silex/silex src
+    
