@@ -17,4 +17,11 @@ Modifier le chemin
      # mkdir src
  ### Installer depuis composer le paquet silex
      # composer create-project silex/silex src
+ ### Création des répertoires
+     # mkdir app, db, web, views
+    * app : configuration de l'application Silex
+    * db : script SQL pour la base de données
+    * web : fichiers accessibles au clients web
+    * views : les vues de l'application
+ 
     
