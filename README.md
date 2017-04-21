@@ -8,3 +8,7 @@ Modifier le chemin
         image: "mysql:latest"
         volumes:
             - "chemin/a/changer/data:/var/lib/mysql"
+## Accès aux services
+### PhpmyAdmin
+    http://localhost:8080
+
