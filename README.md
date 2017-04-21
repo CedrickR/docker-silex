@@ -19,9 +19,10 @@ Modifier le chemin
      # composer create-project silex/silex src
  ### Création des répertoires
      # mkdir app, db, web, views
-    * app : configuration de l'application Silex
-    * db : script SQL pour la base de données
-    * web : fichiers accessibles au clients web
-    * views : les vues de l'application
+     
+* app : configuration de l'application Silex
+* db : script SQL pour la base de données
+* web : fichiers accessibles au clients web
+* views : les vues de l'application
  
     
